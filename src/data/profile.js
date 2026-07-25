@@ -18,5 +18,12 @@ export const profile = {
       displayName: "PERFECT FCKMEAT PLAYLIST",
       theme: "red",
     },
+    {
+      app: "MissAV",
+      label: "MissAV",
+      url: "https://missav.ws/en/playlists/nncbm53m",
+      displayName: "JAV SLUTS PLAYLIST",
+      theme: "blue",
+    },
   ],
 }
