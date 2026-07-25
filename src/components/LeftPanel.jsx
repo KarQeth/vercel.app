@@ -86,7 +86,7 @@ export default function LeftPanel() {
               </div>
               <div className="sp-meta">
                 <div className="sp-label" style={{ color: t.labelColor }}>{item.label}</div>
-                <div className="sp-name">{item.displayName}</div>
+                <div className="sp-name" style={{ fontFamily: '"iA Writer Mono", "Fira Mono", ui-monospace, monospace' }}>{item.displayName}</div>
               </div>
             </a>
           )
