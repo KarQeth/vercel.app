@@ -72,7 +72,7 @@ html, body {
 }
 
 .left-top  { position: relative; z-index: 1; }
-.left-bottom { position: relative; z-index: 1; }
+.left-bottom { position: relative; z-index: 1; margin-top: 32px; }
 
 .status {
   display: inline-flex;
